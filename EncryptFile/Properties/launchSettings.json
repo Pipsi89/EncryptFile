@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EncryptFile": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Programming\\C#\\EncryptFile\\EncryptFile\\EncryptFile\\testInput.txt D:\\Programming\\C#\\EncryptFile\\EncryptFile\\EncryptFile\\testOutput.txt"
+    }
+  }
+}

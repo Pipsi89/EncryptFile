@@ -1,0 +1,13 @@
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.exe
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.deps.json
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.runtimeconfig.json
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.runtimeconfig.dev.json
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.dll
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\bin\Debug\netcoreapp3.1\EncryptFile.pdb
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.csprojAssemblyReference.cache
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.csproj.CoreCompileInputs.cache
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.AssemblyInfoInputs.cache
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.AssemblyInfo.cs
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.dll
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.pdb
+D:\Programming\C#\EncryptFile\EncryptFile\EncryptFile\obj\Debug\netcoreapp3.1\EncryptFile.genruntimeconfig.cache
